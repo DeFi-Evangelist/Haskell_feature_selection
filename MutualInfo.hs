@@ -71,7 +71,7 @@ s_mutinfo stru  = foldr s_entropy 0.0 stru
 
 
 
-mutInfoOnlogn :: Ord a => Eq a => [a] -> [a] -> Float
+mutInfoOnlogn :: Ord a => [a] -> [a] -> Float
 mutInfoOnlogn ls1 ls2 = s_mutinfo stru_pr2
     where
         sort1_s = sortBy (sort_stru s_f) (stru_crt ls1 ls2)
