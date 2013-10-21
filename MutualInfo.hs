@@ -5,8 +5,8 @@
                         -- Aleksei Pupyshev, 
                         -- Eugene Zhurin,
                         
-                            -- "Création de l'esprit" company
-							-- "Brain and Trauma Foundation" Switzerland
+                        -- "Création de l'esprit" company
+			-- "Brain and Trauma Foundation" Switzerland
 
 -- ******************************************************************************/
 
